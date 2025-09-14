@@ -1,0 +1,26 @@
+# Fake Argo Metadata File for Testing
+# Format loosely based on Argo GDAC metadata files
+
+FLOAT_SERIAL_NO:  FAKE12345
+PLATFORM_NUMBER:  9999999
+DAC:              testdac
+PI_NAME:          Dr. Ocean Tester
+INSTITUTION:      Test Institute of Oceanography
+PROJECT_NAME:     Demo Argo Project
+WMO_INST_TYPE:    846
+FLOAT_TYPE:       PROVOR-III
+BATTERY_TYPE:     Lithium 9V
+FIRMWARE_VERSION: v1.2.3
+SENSOR:           SBE41CP CTD
+SENSOR_MAKER:     Sea-Bird Electronics
+SENSOR_MODEL:     SBE41
+LAUNCH_DATE:      2020-01-15T12:00:00Z
+LAUNCH_LATITUDE:  15.123
+LAUNCH_LONGITUDE: 72.456
+LAUNCH_PLATFORM:  RV TestShip
+FLOAT_STATUS:     deployed
+DEPLOYMENT_CRUISE_NAME: TEST2020
+TRANS_SYSTEM:     ARGOS
+TRANS_ID:         123456789
+FLOAT_OWNER:      Test Ocean Data Center
+COMMENT:          This is a fake metadata file for testing purposes only.

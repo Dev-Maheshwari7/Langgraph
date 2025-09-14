@@ -1,0 +1,16 @@
+langgraph
+langchain
+ipython
+langchain_openai
+langchain_community
+dotenv
+typing
+chromadb
+langchain_chroma
+ipykernel
+pandas
+numpy
+matplotlib
+scikit-learn
+argopy
+langchain-experimental
